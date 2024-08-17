@@ -70,6 +70,6 @@
    - Intents: Messaging objects used to request an action from another app component, facilitating communication between different parts of your app or between different apps.
    - TimeUnit: A utility class that provides time duration constants and conversion methods.
    - Bundle: A mapping from String keys to various Parcelable values, used for passing data between activities and fragments.
-   - Serializable: A marker interface that indicates that a class can be serialized and deserialized.
+
 
    
