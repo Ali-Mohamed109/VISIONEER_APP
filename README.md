@@ -52,7 +52,7 @@
    ## Android and AR
   Here is the function of each tool and library used in our application:
 
-   - Android SDK: Provides the API libraries and developer tools necessary to build, test, and debug apps for Android.
+   - Android SDK
    - Android Studio
    - Java
    - Gradle: A build automation tool used to compile, build, and manage dependencies in your Android project.
