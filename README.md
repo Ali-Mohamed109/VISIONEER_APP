@@ -37,3 +37,12 @@
    - Select the 3D model view option.
    - Use your device's camera to view the model in AR.
 
+## Models used
+   - we used Stable Diffusion v1.5 as a base model and fine-tuned it twice using PEFT technique for two tasks:
+      1. Schematic Design(without furniture):
+           - model: <a href="https://huggingface.co/Ahmed167/visioneer-v2">First Fine-tuned model</a> 
+           - Dataset: 
+      2. Layout Design(with furniture):
+         - Model:
+         - Dataset:
+   - HuggingFace Tutorial: 
