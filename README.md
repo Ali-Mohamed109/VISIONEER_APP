@@ -56,11 +56,11 @@
    - Android Studio: The official IDE for Android development, offering tools for code editing, debugging, and performance analysis.
    - Java: A primary programming language used for Android development, known for its portability and extensive libraries.
    - Gradle: A build automation tool used to compile, build, and manage dependencies in your Android project.
-   - Retrofit: A type-safe HTTP client for Android and Java, used for making network requests to your backend API.
+   - Retrofit: A type-safe HTTP client for Android and Java, used for making network requests to your backend API. <implementation ("com.squareup.retrofit2:converter-gson:2.9.0")>
    - OkHttp: An HTTP client used by Retrofit for handling network requests, providing efficient HTTP operations.
-   - HttpLoggingInterceptor: A logging interceptor for OkHttp used to log HTTP request and response data.
-   - Gson: A library used to convert Java objects to JSON and vice versa, integrated with Retrofit for parsing JSON responses.
-   - ARCore: Google's platform for building augmented reality experiences on Android, providing tools for motion tracking, environmental understanding, and light estimation.
+   - HttpLoggingInterceptor: A logging interceptor for OkHttp used to log HTTP request and response data. <implementation ("com.squareup.okhttp3:logging-interceptor:4.9.0")>
+   - Gson: A library used to convert Java objects to JSON and vice versa, integrated with Retrofit for parsing JSON responses. < implementation ("com.squareup.retrofit2:converter-gson:2.9.0")>
+   - ARCore: Google's platform for building augmented reality experiences on Android, providing tools for motion tracking, environmental understanding, and light estimation.    <implementation("com.google.ar:core:1.43.0")>
    - AndroidX: A major improvement to the original Android Support Library, providing backward-compatible versions of Android framework APIs.
    - Material Components for Android: A library that allows you to build modern, beautiful, and responsive user interfaces using Material Design guidelines.
    - Fragment: A component of Android's UI that represents a portion of the user interface in an Activity, allowing for more modular and flexible UI designs.
