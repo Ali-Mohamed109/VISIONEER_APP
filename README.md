@@ -66,8 +66,6 @@
    - FragmentManager: A class that provides methods to interact with fragments within an activity.
    - FragmentTransaction: A class that provides methods to perform a set of fragment operations atomically.
    - BottomNavigationView: A Material Design component used for bottom navigation in your app, providing a consistent way to navigate between top-level views.
-   - Intents: Messaging objects used to request an action from another app component, facilitating communication between different parts of your app or between different apps.
-   - TimeUnit: A utility class that provides time duration constants and conversion methods.
    - Bundle: A mapping from String keys to various Parcelable values, used for passing data between activities and fragments.
 
 
