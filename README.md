@@ -41,10 +41,11 @@
    - we used Stable Diffusion v1.5 as a base model and fine-tuned it twice using PEFT technique for two tasks:
       1. Schematic Design(without furniture):
            - model: <a href="https://huggingface.co/OmarAmir2001/visioneer5-0">First Fine-tuned model</a> 
-           - Dataset: <a href="https://huggingface.co/datasets/OmarAmir2001/visioneer-dataset-with-no-text">
+           - Dataset: <a href="https://huggingface.co/datasets/OmarAmir2001/visioneer-dataset-with-no-text">First models dataset</a>
       2. Layout Design(with furniture):
          - Model: <a href="https://huggingface.co/Ahmed167/visioneer-v2">Second Fine-tuned model</a> 
          - Dataset:<a href="https://huggingface.co/datasets/OmarAmir2001/pseudo-floor-plan12k-modified2">pseudo-floor-plan12k-modified2</a>
+         <br>
          this is a modified version of the original pseudo-floor-plan12k which contains some of the columns mainly plans and plans_captions
          - original pseudo-floor-plan12k:<a href="https://huggingface.co/datasets/zimhe/pseudo-floor-plan-12k">pseudo-floor-plan-12k</a>
    - HuggingFace Tutorial: 
