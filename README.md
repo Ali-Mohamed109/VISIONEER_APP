@@ -54,7 +54,6 @@
   
    - Android Studio
    - Java
-   - Gradle: A build automation tool used to compile, build, and manage dependencies in your Android project.
    - Retrofit: A type-safe HTTP client for Android and Java, used for making network requests to your backend API. <implementation ("com.squareup.retrofit2:converter-gson:2.9.0")>
    - OkHttp: An HTTP client used by Retrofit for handling network requests, providing efficient HTTP operations.
    - HttpLoggingInterceptor: A logging interceptor for OkHttp used to log HTTP request and response data. <implementation ("com.squareup.okhttp3:logging-interceptor:4.9.0")>
