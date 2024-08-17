@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="living_room">
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+
+    <string-array name="bedrooms">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+
+    </string-array>
+
+    <string-array name="Kitchens">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+
+    <string-array name="Stairs">
+        <item>none</item>
+        <item>Circular</item>
+        <item>Curved</item>
+        <item>Double Landing</item>
+        <item>Double Winder</item>
+        <item>Quarter Turn</item>
+        <item>Straight Flight</item>
+        <item> Two Quarter Winder </item>
+        <item>Two Quarter Landing</item>
+    </string-array>
+
+    <string-array name="garage">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+
+    <string-array name="garden">
+
+    <item>none</item>
+    <item>one</item>
+    <item>two</item>
+    <item>three</item>
+    <item>four</item>
+    <item>five</item>
+
+</string-array>
+
+    <string-array name="balcony">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+
+    </string-array>
+
+    <string-array name="hall">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+
+    <string-array name="store">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+
+
+    <string-array name="entrence">
+
+        <item>one</item>
+        <item>no</item>
+
+    </string-array>
+
+    <string-array name="warehouse">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+
+    </string-array>
+
+
+    <string-array name="emptyspace">
+
+        <item>none</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+
+    </string-array>
+
+
+</resources>
