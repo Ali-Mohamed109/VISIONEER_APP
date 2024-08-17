@@ -58,8 +58,7 @@
    - OkHttp: An HTTP client used by Retrofit for handling network requests, providing efficient HTTP operations.
    - HttpLoggingInterceptor: A logging interceptor for OkHttp used to log HTTP request and response data. <implementation ("com.squareup.okhttp3:logging-interceptor:4.9.0")>
    - Gson: A library used to convert Java objects to JSON and vice versa, integrated with Retrofit for parsing JSON responses. < implementation ("com.squareup.retrofit2:converter-gson:2.9.0")>
-   - ARCore: Google's platform for building augmented reality experiences on Android, providing tools for motion tracking, environmental understanding, and light estimation.       
-     <implementation("com.google.ar:core:1.43.0")>
+   - ARCore: Google's platform for building augmented reality experiences on Android, providing tools for motion tracking, environmental understanding, and light estimation. <implementation("com.google.ar:core:1.43.0")>
    - Material Components for Android: A library that allows you to build modern, beautiful, and responsive user interfaces using Material Design guidelines.
    - Fragment: A component of Android's UI that represents a portion of the user interface in an Activity, allowing for more modular and flexible UI designs.
    - FragmentManager: A class that provides methods to interact with fragments within an activity.
