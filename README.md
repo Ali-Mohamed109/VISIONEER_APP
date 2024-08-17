@@ -47,4 +47,4 @@
          - Dataset:<a href="https://huggingface.co/datasets/OmarAmir2001/pseudo-floor-plan12k-modified2">pseudo-floor-plan12k-modified2</a>
          <p>this is a modified version of the original pseudo-floor-plan12k which contains some of the columns mainly plans and plans_captions</p>
          - original pseudo-floor-plan12k:<a href="https://huggingface.co/datasets/zimhe/pseudo-floor-plan-12k">pseudo-floor-plan-12k</a>
-   - HuggingFace Tutorial: 
+   - HuggingFace Tutorial: <a href:"https://huggingface.co/docs/diffusers/index" > Diffusers Documentation</a>
