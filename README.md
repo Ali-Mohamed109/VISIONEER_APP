@@ -44,7 +44,7 @@
            - Dataset: <a href="https://huggingface.co/datasets/OmarAmir2001/visioneer-dataset-with-no-text">
       2. Layout Design(with furniture):
          - Model: <a href="https://huggingface.co/Ahmed167/visioneer-v2">Second Fine-tuned model</a> 
-         - Dataset:<a href="https://huggingface.co/datasets/OmarAmir2001/pseudo-floor-plan12k-modified2">
-         this is a modified version of the original pseudo-floor-plan12k which contains some of the columns mainly plans and plans_captions</a>
-         - original pseudo-floor-plan12k:<a href="https://huggingface.co/datasets/zimhe/pseudo-floor-plan-12k">
+         - Dataset:<a href="https://huggingface.co/datasets/OmarAmir2001/pseudo-floor-plan12k-modified2">pseudo-floor-plan12k-modified2</a>
+         this is a modified version of the original pseudo-floor-plan12k which contains some of the columns mainly plans and plans_captions
+         - original pseudo-floor-plan12k:<a href="https://huggingface.co/datasets/zimhe/pseudo-floor-plan-12k">pseudo-floor-plan-12k</a>
    - HuggingFace Tutorial: 
