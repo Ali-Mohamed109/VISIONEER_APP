@@ -48,3 +48,30 @@
             <p>this is a modified version of the original pseudo-floor-plan12k which contains some of the columns mainly plans and plans_captions</p>
          - original pseudo-floor-plan12k:<a href="https://huggingface.co/datasets/zimhe/pseudo-floor-plan-12k">pseudo-floor-plan-12k</a>
    - HuggingFace Tutorial: <a href="https://huggingface.co/docs/diffusers/index"> Diffusers Documentation</a>
+
+   ## Android and AR
+  Here is the function of each tool and library used in our application:
+
+   - Android SDK: Provides the API libraries and developer tools necessary to build, test, and debug apps for Android.
+   - Android Studio: The official IDE for Android development, offering tools for code editing, debugging, and performance analysis.
+   - Java: A primary programming language used for Android development, known for its portability and extensive libraries.
+   - Gradle: A build automation tool used to compile, build, and manage dependencies in your Android project.
+   - Retrofit: A type-safe HTTP client for Android and Java, used for making network requests to your backend API.
+   - OkHttp: An HTTP client used by Retrofit for handling network requests, providing efficient HTTP operations.
+   - HttpLoggingInterceptor: A logging interceptor for OkHttp used to log HTTP request and response data.
+   - Gson: A library used to convert Java objects to JSON and vice versa, integrated with Retrofit for parsing JSON responses.
+   - ARCore: Google's platform for building augmented reality experiences on Android, providing tools for motion tracking, environmental understanding, and light estimation.
+   - AndroidX: A major improvement to the original Android Support Library, providing backward-compatible versions of Android framework APIs.
+   - Material Components for Android: A library that allows you to build modern, beautiful, and responsive user interfaces using Material Design guidelines.
+   - Fragment: A component of Android's UI that represents a portion of the user interface in an Activity, allowing for more modular and flexible UI designs.
+   - FragmentManager: A class that provides methods to interact with fragments within an activity.
+   - FragmentTransaction: A class that provides methods to perform a set of fragment operations atomically.
+   - BottomNavigationView: A Material Design component used for bottom navigation in your app, providing a consistent way to navigate between top-level views.
+   - Intents: Messaging objects used to request an action from another app component, facilitating communication between different parts of your app or between different apps.
+   - TimeUnit: A utility class that provides time duration constants and conversion methods.
+   - Uri: A class that represents a Uniform Resource Identifier (URI) reference.
+   - Log: A utility class that provides methods to send log output.
+   - Bundle: A mapping from String keys to various Parcelable values, used for passing data between activities and fragments.
+   - Serializable: A marker interface that indicates that a class can be serialized and deserialized.
+
+   
